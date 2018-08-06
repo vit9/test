@@ -1,0 +1,208 @@
+form{
+	width: 500px;
+	margin: 0 auto;
+}
+.label_1{
+	font-family: 'Montserrat', sans-serif;
+	line-height :25px;
+	font-size: 16px;
+	color: #33313b;
+	font-weight: 700;
+
+}
+.text_area_1{
+	font-family: 'Merriweather', serif;
+	line-height: 25px;
+	font-size: 14px;
+	color: #33313b;
+	font-weight: 400;
+}
+.text{
+	font-family: 'Montserrat', sans-serif;
+	line-height: 25px;
+	font-size: 14px;
+	color: #e16e69;
+	margin-bottom: 0px;
+}
+.but{
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 700;
+	line-height: 25px;
+	font-size: 11px;
+	background-color: #e16e69;
+	border-radius: 25px;
+	padding: 5px 25px;
+
+}
+.line{
+	color: rgba(31, 49, 59, .2);
+	margin-top: 0px;
+}
+.block_1{
+	width: 500px;
+
+}
+.text_area_1{
+	border-width: 0px;
+	background-color: #443c3c2e;
+	padding: 10px 0px 10px 10px;
+	width: 500px;
+}
+.size{
+	margin-top: 0px;
+}
+.text_area_2{
+	border-width: 0px;
+	background-color: #443c3c2e;
+	padding: 10px 0px 10px 10px;
+	width: 500px;
+	height: 100px;
+}
+.text_area_3{
+	-webkit-appearance: none;
+	border-width: 0px;
+	border-radius: 0px;
+	order-width: 0px;
+	background-color: #443c3c2e;
+	padding: 10px 0px 10px 10px;
+	width: 510px;
+	height: 45px;
+}
+.block_6{
+	text-align: right;
+}
+/*.checkbox_1{
+	display:inline-block;
+    width:19px;
+    height:19px;
+	vertical-align:middle;
+	background-color: #443c3c2e;
+	margin:-1px 4px 0 0;
+	 cursor:pointer;
+}
+.checkbox_1:checked{
+	  background-color:#443c3c2e -19px top no-repeat;
+}*/
+.icon-circle-down{
+	color: #443c3cb0;
+	position: relative;
+	bottom: 50px;
+	left: 485px;
+}
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?g8a7ku');
+  src:  url('../fonts/icomoon.eot?g8a7ku#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?g8a7ku') format('truetype'),
+    url('../fonts/icomoon.woff?g8a7ku') format('woff'),
+    url('../fonts/icomoon.svg?g8a7ku#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-circle-down:before {
+  content: "\ea43";
+}
+.icon-facebook:before {
+  content: "\ea90";
+}
+.icon-instagram:before {
+  content: "\ea92";
+}
+.icon-youtube:before {
+  content: "\ea9d";
+}
+.icon-linkedin2:before {
+  content: "\eaca";
+}
+
+
+.facebook{
+	width: 50px;
+	height: 50px;
+	border-radius: 50px;
+	background-color: #fa364a;
+}
+.icon-facebook{
+	font-size :26px;
+	color: white;
+	position: relative;
+	top: 13px;
+	left: 13px;
+}
+.instagram{
+	position: relative;
+	bottom: 66px;
+    left: 60px;
+	width: 50px;
+	height: 50px;
+	border-radius: 50px;
+	background-color: #fa364a;
+}
+.icon-instagram{
+	font-size :26px;
+	color: white;
+	position: relative;
+	top: 13px;
+	left: 13px;
+}
+.linkedin{
+	position: relative;
+	bottom: 70px;
+	width: 50px;
+	height: 50px;
+	border-radius: 50px;
+	background-color: #fa364a;
+}
+.icon-linkedin2{
+	font-size :26px;
+	color: white;
+	position: relative;
+	top: 13px;
+	left: 13px;
+}
+.youtube{
+	position: relative;
+	bottom: 136px;
+    left: 60px;
+	width: 50px;
+	height: 50px;
+	border-radius: 50px;
+	background-color: #fa364a;
+}
+.icon-youtube{
+	font-size :26px;
+	color: white;
+	position: relative;
+	top: 13px;
+	left: 13px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
